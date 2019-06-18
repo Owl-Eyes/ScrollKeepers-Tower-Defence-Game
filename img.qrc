@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/AllySet.png</file>
+        <file>img/Windows.png</file>
+        <file>img/ShelfWall.png</file>
+        <file>img/TileSetR.png</file>
+        <file>mp3/Avenged Sevenfold - Fiction(instrumental) [pleer.net].mp3</file>
+        <file>img/EnemySet.png</file>
+        <file>img/Balcony2.png</file>
+    </qresource>
+</RCC>
